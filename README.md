@@ -17,4 +17,4 @@ _Note: Data used in the projects accessible here are strictly only for demonstra
 - ### Data Analysis
    -__R__
    
-   - [Clustering of Credit Card Holder Behaviour](Credit Card Clustering with R.ipynb): I attempt to understand through thorough analysis of the credit card holder dataset, the patterns of behaviour of about 9000 credit card holders. K-Means Clustering is used to better compress and summarize the dataset. After reducing its complexity, the dataset is further analysed for further insights. 
+   - [Clustering of Credit Card Holder Behaviour](https://github.com/magpie15/data-science-portfolio/blob/a3e793d59d3326494b4a8f6b65868b3a5a12ffd3/Credit%20Card%20Clustering%20with%20R.ipynb): I attempt to understand through thorough analysis of the credit card holder dataset, the patterns of behaviour of about 9000 credit card holders. K-Means Clustering is used to better compress and summarize the dataset. After reducing its complexity, the dataset is further analysed for further insights. 
