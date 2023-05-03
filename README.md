@@ -29,4 +29,4 @@ _Note: Data used in the projects accessible here are strictly only for demonstra
 - ### Machine Learning
    -__Python__
    
-   -[Labeling Grocery Store Items with CNN](https://github.com/magpie15/data-science-portfolio/blob/9b4b7843b7901ba903eab4fa4f29353f0e4543cb/Classifying_Grocery_Store_Items.ipynb) : I attempt to classify Grocery Store Items correctly using a Convolutional Neural Network. The design and implementation of the CNN plays a key role here and furthermore, analysing the competency of the model was also very important. 
+   - [Labeling Grocery Store Items with CNN](https://github.com/magpie15/data-science-portfolio/blob/9b4b7843b7901ba903eab4fa4f29353f0e4543cb/Classifying_Grocery_Store_Items.ipynb) : I attempt to classify Grocery Store Items correctly using a Convolutional Neural Network. The design and implementation of the CNN plays a key role here and furthermore, analysing the competency of the model was also very important. 
