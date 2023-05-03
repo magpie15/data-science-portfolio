@@ -25,3 +25,8 @@ _Note: Data used in the projects accessible here are strictly only for demonstra
    -__Python__
    
    - [Predicting Disaster Tweets using a Pretrained Transformer](https://github.com/magpie15/data-science-portfolio/blob/af2192f778ec3a52a9e3ceb2132c6840df99c8cb/NLP%20with%20Disaster%20Tweets%20using%20DistilBERT.ipynb) : I attempt to tackle the classic NLP Competition hosted on Kaggle. My strategy to predict if a tweet is referring to a real Disaster or not is to utilise a pre-trained BERT Model. I have chosen to use the DistilBERT Model as it has enough capability to take on the task. A very exciting project as it is one of my first attempts to use a pretrained transformer model which without much surprise produced respectable results.
+   
+- ### Machine Learning
+   -__Python__
+   
+   -[Labeling Grocery Store Items with CNN](https://github.com/magpie15/data-science-portfolio/blob/9b4b7843b7901ba903eab4fa4f29353f0e4543cb/Classifying_Grocery_Store_Items.ipynb) : I attempt to classify Grocery Store Items correctly using a Convolutional Neural Network. The design and implementation of the CNN plays a key role here and furthermore, analysing the competency of the model was also very important. 
