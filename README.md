@@ -3,7 +3,7 @@
 Greetings! \
 This is my repository containing a diverse series of data science projects I have either chosen to tackle on my own or projects that
 I have completed for my studies alongside fellow students. All projects are included in the form of a Jupyter Notebook. While I do 
-enjoy writing in Python, I am versed in R as well, and as such you might find all my work done in R on my RPubs page here.
+enjoy writing in Python, I am versed in R as well.
 
 _Note: Data used in the projects accessible here are strictly only for demonstration purposes._
 
